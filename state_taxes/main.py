@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 filename = 'data/2025-State-Individual-Income-Tax-Rates-and-Brackets-2025.xlsx'
